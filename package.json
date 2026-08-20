@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@convex-dev/auth": "latest",
+    "@clerk/nextjs": "latest",
     "@radix-ui/react-slot": "latest",
     "class-variance-authority": "latest",
     "clsx": "latest",
@@ -31,6 +31,7 @@
     "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
+    "tailwindcss-animate": "latest",
     "typescript": "latest"
   }
 }
